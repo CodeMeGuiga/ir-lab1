@@ -1,6 +1,10 @@
 Getting started
 ===============
 
+This lab was completed as part of a course at the Free University of
+Bozen-Bolzano (unibz), taught by Professor Andrea Rosani.
+
+
 Install Conda
 -------------
 We will use Conda to obtain a standard installation of Python and related useful packages. If you aren't already using it, please install it using the platform-specific instructions provided on the [Conda installation page](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
