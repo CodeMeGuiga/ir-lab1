@@ -1,0 +1,22 @@
+# Lab1 corpus data (~170MB, thousands of files)
+# Download it instead with:
+#   curl -o lab1/lab1-data.zip http://web.stanford.edu/class/cs276/pa/lab1-data.zip
+#   unzip lab1/lab1-data.zip -d lab1/
+lab1/lab1-data/
+
+# Generated index output / scratch dirs (rebuilt by running the notebook)
+lab1/output_dir/
+lab1/output_dir_compressed/
+lab1/toy_output_dir/
+lab1/tmp/
+lab1/submission/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
